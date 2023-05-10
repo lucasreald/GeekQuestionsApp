@@ -7,10 +7,10 @@
 - SwifUI
 
 ## Preview
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/1.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/2.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/3.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/4.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/5.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/6.png?raw=true)
-![alt text](https://github.com/lucasreald/GameNavigation/blob/main/appImages/7.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/01.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/02.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/03.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/04.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/05.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/06.png?raw=true)
+![alt text](https://github.com/lucasreald/GeekQuestionsApp/blob/main/appImg/07.png?raw=true)
