@@ -1,5 +1,5 @@
 # Geek Questions
-GeekQuestions foi um aplicativo desenvolvido juntamente com meu amigo Vinicius Cabral, e foi feito para que o usuário possa se divertir enquanto responde e testa seus conhecimentos sobre o universo geek em geral.
+<strong>GeekQuestions</strong> foi um aplicativo desenvolvido juntamente com meu amigo Vinicius Cabral, para que o usuário possa se divertir enquanto responde e testa seus conhecimentos sobre o universo geek em geral.
 No desenvolvimento desse projeto, utilizamos a metodologia CBL, que nos proporcionou um ótimo engajamento durante o trabalho, e fez com que nossa motivação continuasse sempre alta.
 
 ## Tecnologias utilizadas
